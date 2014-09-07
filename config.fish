@@ -1,7 +1,5 @@
 alias l='ls -hl'
 alias ll='ls -Ahl'
-set -x PATH $PATH:/usr/local/MATLAB/R2013a/bin
-set PATH $PATH:/home/flo/Documents/sat/
 
 ## fish git prompt
 #set __fish_git_prompt_showdirtystate 'yes'
