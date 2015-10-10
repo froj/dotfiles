@@ -16,3 +16,4 @@
     s = status -s -b
     d = diff
     dt = difftool -y
+    dc = diff --cached
