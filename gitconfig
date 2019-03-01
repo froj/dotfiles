@@ -3,7 +3,7 @@
 	name = Florian Reinhard
 
 [core]
-    editor = vim
+    editor = nvim
     excludesfile = ~/.gitignore
 [push]
 	default = simple
